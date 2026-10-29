@@ -1,0 +1,16 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+android/key.properties
+android/app/upload-keystore.jks
+*.jks
+supabase/.temp/
+.env
+.env.*
+!.env.example
+config/app.env.json
+supabase/functions/.env.local

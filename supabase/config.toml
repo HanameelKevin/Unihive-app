@@ -1,0 +1,4 @@
+project_id = "unihive"
+
+[functions.mpesa-callback]
+verify_jwt = false
